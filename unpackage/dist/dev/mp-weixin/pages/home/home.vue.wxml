@@ -1,0 +1,1 @@
+<template name="72c2ddb8"><view style="text-align: center;" class="_view M72c2ddb8">您好  {{list.username}},欢迎回来!</view></template>
